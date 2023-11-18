@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/angyonghaseyo/PortfolioWebsite/static/css/main.ab7c0ffb.css",
-    "main.js": "/angyonghaseyo/PortfolioWebsite/static/js/main.e4e89268.js",
-    "static/js/787.a2cb61a6.chunk.js": "/angyonghaseyo/PortfolioWebsite/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Profile.png": "/angyonghaseyo/PortfolioWebsite/static/media/Profile.38dea171fd4e6f95302b.png",
-    "static/media/Courier.ttf": "/angyonghaseyo/PortfolioWebsite/static/media/Courier.9b892175cfd148b81238.ttf",
-    "static/media/helvetica-neu.ttf": "/angyonghaseyo/PortfolioWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/CoolveticaRg-Regular.woff2": "/angyonghaseyo/PortfolioWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/angyonghaseyo/PortfolioWebsite/index.html",
-    "main.ab7c0ffb.css.map": "/angyonghaseyo/PortfolioWebsite/static/css/main.ab7c0ffb.css.map",
-    "main.e4e89268.js.map": "/angyonghaseyo/PortfolioWebsite/static/js/main.e4e89268.js.map",
-    "787.a2cb61a6.chunk.js.map": "/angyonghaseyo/PortfolioWebsite/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/PortfolioWebsite/static/css/main.b3914c91.css",
+    "main.js": "/PortfolioWebsite/static/js/main.c27f1794.js",
+    "static/js/787.a2cb61a6.chunk.js": "/PortfolioWebsite/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Profile.png": "/PortfolioWebsite/static/media/Profile.38dea171fd4e6f95302b.png",
+    "static/media/Courier.ttf": "/PortfolioWebsite/static/media/Courier.9b892175cfd148b81238.ttf",
+    "static/media/helvetica-neu.ttf": "/PortfolioWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/CoolveticaRg-Regular.woff2": "/PortfolioWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.b3914c91.css.map": "/PortfolioWebsite/static/css/main.b3914c91.css.map",
+    "main.c27f1794.js.map": "/PortfolioWebsite/static/js/main.c27f1794.js.map",
+    "787.a2cb61a6.chunk.js.map": "/PortfolioWebsite/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab7c0ffb.css",
-    "static/js/main.e4e89268.js"
+    "static/css/main.b3914c91.css",
+    "static/js/main.c27f1794.js"
   ]
 }
