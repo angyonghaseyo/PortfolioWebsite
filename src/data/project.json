@@ -1,0 +1,26 @@
+{
+    "project": [
+        {
+            "cover": "project/pomodoroapp/pomodoro.png",
+            "title": "Pomodoro",
+            "description": "A Pomodoro app is designed to boost productivity using the Pomodoro Technique, also available in Android/Apple at https://snack.expo.dev/@chiaangyong1/pomodoro-app",
+            "url": "https://github.com/angyonghaseyo/Pomodoro-App"
+        },
+        {
+            "cover": "project/pomodoroapp/pomodoro.png",
+            "title": "CrazyAuction: Online Auction System",
+            "description": "CrazyBids.com is a Business-to-Consumer (B2C) e-commerce service that revolutionizes the traditional online shopping experience by implementing an online auction bidding mechanism. Our project involves designing and developing an enterprise-scale software system to enable this innovative auction system.",
+            "url": "https://github.com/angyonghaseyo/CrazyAuctions"
+
+        },
+        {
+            "cover": "project/pomodoroapp/pomodoro.png",
+            "title": "NRIC Checker System",
+            "description": "The NRIC Checker App is a React Native mobile application designed to validate Singapore National Registration Identity Card (NRIC) numbers. It ensures that the input adheres to the standard NRIC format and verifies its checksum for authenticity.",
+            "url": " https://github.com/angyonghaseyo/NRIC_Checker"
+
+        }
+       
+
+    ]
+}
