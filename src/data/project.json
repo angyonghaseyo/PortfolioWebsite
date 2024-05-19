@@ -7,27 +7,22 @@
             "url": "https://github.com/angyonghaseyo/Pomodoro-App"
         },
         {
-            "cover": "project/pomodoroapp/pomodoro.png",
+            "cover": "project/crazyauctions/crazyauctions.png",
             "title": "CrazyAuction: Online Auction System",
             "description": "CrazyBids.com is a Business-to-Consumer (B2C) e-commerce service that revolutionizes the traditional online shopping experience by implementing an online auction bidding mechanism. Our project involves designing and developing an enterprise-scale software system to enable this innovative auction system.",
             "url": "https://github.com/angyonghaseyo/CrazyAuctions"
-
         },
         {
-            "cover": "project/pomodoroapp/pomodoro.png",
-            "title": "NRIC Checker System",
-            "description": "The NRIC Checker App is a React Native mobile application designed to validate Singapore National Registration Identity Card (NRIC) numbers. It ensures that the input adheres to the standard NRIC format and verifies its checksum for authenticity.",
-            "url": " https://github.com/angyonghaseyo/NRIC_Checker"
-
+            "cover": "project/tictactoe/tictactoe.png",
+            "title": "Accessible Tic Tac Toe",
+            "description": "The Accessible Tic-Tac-Toe features a real-time, multiplayer web application built with React, Node.js, and MongoDB, designed to be fully accessible, including support for screen readers and voice command functionality.",
+            "url": " https://github.com/angyonghaseyo/Accessible-Tic-Tac-Toe"
         },
         {
-            "cover": "project/pomodoroapp/pomodoro.png",
+            "cover": "project/treasurechope/treasurechope.png",
             "title": "Treasure Chope",
             "description": "reasure Chope is a sustainable platform that connects restaurants with surplus food to consumers seeking diverse and affordable meal options, effectively reducing food waste and supporting local businesses.",
             "url": " https://github.com/angyonghaseyo/Treasure-Chope"
-
         }
-       
-
     ]
 }
