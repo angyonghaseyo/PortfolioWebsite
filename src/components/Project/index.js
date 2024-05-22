@@ -16,7 +16,7 @@ const Project = () => {
         return () => {
             clearTimeout(timer);
         }
-    });
+    }, []);
 
     const renderProject = (project) => {
         return (
@@ -26,8 +26,8 @@ const Project = () => {
                         return (
                             <div className="image-box" key={idx}>
                                 <img src={port.cover}
-                                className="project-image"
-                                alt="project" />
+                                    className="project-image"
+                                    alt="project" />
                                 <div className="content">
                                     <p className="title">{port.title}</p>
                                     <h4 className="description">{port.description}</h4>
@@ -40,21 +40,21 @@ const Project = () => {
                 }
             </div>
         );
-    } 
+    }
 
     return (
-    <>
-        <div className="container project-page">
-            <h1 className="page-title">
-                <AnimatedLetters letterClass={letterClass}
-              strArray={"Projects".split("")}
-              idx={15}/>
-            </h1>
-            <div>{renderProject(projectData.project)}</div>
-        </div>
-        <Loader type="square-spin"/>
-    </>
+        <>
+            <div className="container project-page">
+                <h1 className="page-title">
+                    <AnimatedLetters letterClass={letterClass}
+                        strArray={"Projects".split("")}
+                        idx={15} />
+                </h1>
+                <div>{renderProject(projectData.project)}</div>
+            </div>
+            <Loader type="square-spin" />
+        </>
     )
 }
 
-export default Project
+export default Project;
