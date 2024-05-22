@@ -22,9 +22,13 @@
     margin: 0;
     font-family: 'Coolvetica';
     font-weight: 400;
-    margin-left: 0;
+    margin-left: 15px;
     line-height: 1.2;
     position: relative;
+
+    @media (max-width: 768px) {
+      margin-left: -15px;
+    }
 
     &::before {
       content: '<h1>';
@@ -37,7 +41,7 @@
       opacity: 0.6;
 
       @media (max-width: 768px) {
-        font-size: 12px;
+        font-size: 18px;
         top: -20px;
       }
     }
@@ -53,7 +57,7 @@
       opacity: 0.6;
 
       @media (max-width: 768px) {
-        font-size: 12px;
+        font-size: 18px;
         bottom: -20px;
       }
     }
@@ -85,6 +89,7 @@
     @media (max-width: 768px) {
       font-size: 14px;
       margin-top: 15px;
+      margin-left: -15px;
     }
   }
 
