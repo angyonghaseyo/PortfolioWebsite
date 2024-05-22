@@ -54,7 +54,11 @@ const Home = () => {
             <br />
 
             <br />
-          </h1><h2 style={{ margin: "20px", paddingLeft: '60px' }}>Aspiring Impactor</h2>
+          </h1>
+          <br />
+          <h2>
+            Aspiring Impactor
+          </h2>
           <br />
 
         </div>
