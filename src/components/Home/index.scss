@@ -42,7 +42,7 @@
 
       @media (max-width: 768px) {
         font-size: 18px;
-        top: -20px;
+        top: -25px;
       }
     }
 
@@ -85,11 +85,12 @@
     font-family: 'Courier';
     letter-spacing: 3px;
     animation: fadeIn 1s 3.6s backwards;
+    margin-left: 10px;
 
     @media (max-width: 768px) {
       font-size: 14px;
       margin-top: 15px;
-      margin-left: -15px;
+      margin-left: -20px;
     }
   }
 
