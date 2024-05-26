@@ -23,6 +23,12 @@
             "title": "Treasure Chope",
             "description": "Treasure Chope is a sustainable platform that connects restaurants with surplus food to consumers seeking diverse and affordable meal options, effectively reducing food waste and supporting local businesses.",
             "url": " https://github.com/angyonghaseyo/Treasure-Chope"
+        },
+        {
+            "cover": "project/eventbrite/eventbrite.png",
+            "title": "EventBrite Clone",
+            "description": "EventBrite Clone is an online event management platform that mirrors the functionality of EventBrite, facilitating seamless interaction between event organizers and attendees. It provides comprehensive tools for event creation, registration, and engagement, ensuring optimal resource utilization and enhanced community participation.",
+            "url": " https://github.com/angyonghaseyo/Event-Management-System"
         }
     ]
 }
