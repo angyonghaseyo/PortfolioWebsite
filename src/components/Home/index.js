@@ -9,10 +9,11 @@ const Home = () => {
 
   const [letterClass, setLetterClass] = useState('text-animate')
   const AArray = ['A', 'n', 'g', ' ', 'Y', 'o', 'n', 'g']
-  const BArray = ['P', 'E', 'N', 'U', 'L', 'T', 'I', 'M', 'A', 'T', 'E']
-  const CArray = ['Y', 'E', 'A', 'R']
-  const DArray = ['C', 'O', 'M', 'P', 'U', 'T', 'I', 'N', 'G']
-  const EArray = ['U', 'N', 'D', 'E', 'R', 'G', 'R', 'A', 'D', 'U', 'A', 'T', 'E']
+  const BArray = ['N','U', 'S']
+  const CArray = ['C', 'O', 'M', 'P', 'U', 'T', 'I', 'N', 'G']
+  const DArray = ['G', 'R', 'A', 'D', 'U', 'A', 'T', 'E']
+  const EArray = ['S', 'O', 'F', 'T', 'W', 'A', 'R', 'E']
+  const FArray = ['E', 'N', 'G', 'I', 'N', 'E', 'E', 'R']
   useEffect(() => {
     setTimeout(() => {
       setLetterClass('text-animate-hover')
@@ -50,6 +51,10 @@ const Home = () => {
             <br />
             <AnimatedLetters letterClass={letterClass}
               strArray={EArray}
+              idx={23} />
+            <br />
+            <AnimatedLetters letterClass={letterClass}
+              strArray={FArray}
               idx={23} />
             <br />
 
