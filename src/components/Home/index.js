@@ -9,9 +9,9 @@ const Home = () => {
 
   const [letterClass, setLetterClass] = useState('text-animate')
   const AArray = ['A', 'n', 'g', ' ', 'Y', 'o', 'n', 'g']
-  const BArray = ['N','U', 'S']
-  const CArray = ['C', 'O', 'M', 'P', 'U', 'T', 'I', 'N', 'G']
-  const DArray = ['G', 'R', 'A', 'D', 'U', 'A', 'T', 'E']
+  const BArray = ['N','U', 'S',' ','C', 'O', 'M', 'P', 'U', 'T', 'I', 'N', 'G']
+  const CArray = ['G', 'R', 'A', 'D', 'U', 'A', 'T', 'E']
+  const DArray = ['F', 'U', 'L', 'L', ' ', 'S', 'T', 'A', 'C', 'K']
   const EArray = ['S', 'O', 'F', 'T', 'W', 'A', 'R', 'E']
   const FArray = ['E', 'N', 'G', 'I', 'N', 'E', 'E', 'R']
   useEffect(() => {
