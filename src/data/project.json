@@ -1,34 +1,53 @@
 {
-    "project": [
-        {
-            "cover": "project/pomodoroapp/pomodoro.png",
-            "title": "Pomodoro",
-            "description": "A Pomodoro app is designed to boost productivity using the Pomodoro Technique, also available in Android/Apple at https://snack.expo.dev/@chiaangyong1/pomodoro-app",
-            "url": "https://github.com/angyonghaseyo/Pomodoro-App"
-        },
-        {
-            "cover": "project/crazyauctions/crazyauctions.png",
-            "title": "CrazyAuction",
-            "description": "CrazyAuction is a B2C e-commerce service that revolutionizes online shopping with an innovative auction bidding system. We have developed an enterprise-scale software solution to support this unique auction experience.",
-            "url": "https://github.com/angyonghaseyo/CrazyAuctions"
-        },
-        {
-            "cover": "project/tictactoe/tictactoe.png",
-            "title": "Accessible Tic Tac Toe",
-            "description": "The Accessible Tic-Tac-Toe features a real-time, multiplayer web application built with React, Node.js, and MongoDB, designed to be fully accessible, including support for screen readers and voice command functionality.",
-            "url": " https://github.com/angyonghaseyo/Accessible-Tic-Tac-Toe"
-        },
-        {
-            "cover": "project/treasurechope/treasurechope.png",
-            "title": "Treasure Chope",
-            "description": "Treasure Chope is a sustainable platform that connects restaurants with surplus food to consumers seeking diverse and affordable meal options, effectively reducing food waste and supporting local businesses.",
-            "url": " https://github.com/angyonghaseyo/Treasure-Chope"
-        },
-        {
-            "cover": "project/eventbrite/eventbrite.png",
-            "title": "EventBrite Clone",
-            "description": "EventBrite Clone is an online event management platform that mirrors the functionality of EventBrite, facilitating seamless interaction between event organizers and attendees. It provides comprehensive tools for event creation, registration, and engagement, ensuring optimal resource utilization and enhanced community participation.",
-            "url": " https://github.com/angyonghaseyo/Event-Management-System"
-        }
-    ]
+  "project": [
+    {
+      "cover": "project/portconnect/portconnect.png",
+      "title": "PortConnect",
+      "description": "A comprehensive internal and external-facing port management system designed to streamline scheduling, capacity planning, and asset tracking in maritime logistics.",
+      "url": "https://github.com/angyonghaseyo/pmis_external"
+    },
+    {
+      "cover": "project/healthier365/healthier365.png",
+      "title": "Healthier365",
+      "description": "Healthier365 is an AI-powered nutritionist platform that enhances the Healthy365 app with personalized meal suggestions, nutritional analysis, and dietary advice based on user health goals and preferences.",
+      "url": "https://github.com/angyonghaseyo/Healthier365"
+    },
+    {
+      "cover": "project/autoinsure/autoinsure.png",
+      "title": "AutoInsure",
+      "description": "AutoInsure is a blockchain-based travel insurance platform that automates flight delay and baggage loss claims using Chainlink oracles and smart contract-driven payouts.",
+      "url": "https://github.com/angyonghaseyo/AutoInsure"
+    },
+    {
+      "cover": "project/treasurechope/treasurechope.png",
+      "title": "Treasure Chope",
+      "description": "Treasure Chope is a sustainable platform that connects restaurants with surplus food to consumers seeking diverse and affordable meal options, effectively reducing food waste and supporting local businesses.",
+      "url": "https://github.com/angyonghaseyo/Treasure-Chope"
+    },
+    {
+      "cover": "project/crazyauctions/crazyauctions.png",
+      "title": "CrazyAuction",
+      "description": "CrazyAuction is a B2C e-commerce service that revolutionizes online shopping with an innovative auction bidding system. We have developed an enterprise-scale software solution to support this unique auction experience.",
+      "url": "https://github.com/angyonghaseyo/CrazyAuctions"
+    },
+    {
+      "cover": "project/tictactoe/tictactoe.png",
+      "title": "Accessible Tic Tac Toe",
+      "description": "The Accessible Tic-Tac-Toe features a real-time, multiplayer web application built with React, Node.js, and MongoDB, designed to be fully accessible, including support for screen readers and voice command functionality.",
+      "url": "https://github.com/angyonghaseyo/Accessible-Tic-Tac-Toe"
+    },
+
+    {
+      "cover": "project/pomodoroapp/pomodoro.png",
+      "title": "Pomodoro",
+      "description": "A Pomodoro app is designed to boost productivity using the Pomodoro Technique, also available in Android/Apple at https://snack.expo.dev/@chiaangyong1/pomodoro-app",
+      "url": "https://github.com/angyonghaseyo/Pomodoro-App"
+    },
+    {
+      "cover": "project/eventbrite/eventbrite.png",
+      "title": "EventBrite Clone",
+      "description": "EventBrite Clone is an online event management platform that mirrors the functionality of EventBrite, facilitating seamless interaction between event organizers and attendees. It provides comprehensive tools for event creation, registration, and engagement, ensuring optimal resource utilization and enhanced community participation.",
+      "url": "https://github.com/angyonghaseyo/Event-Management-System"
+    }
+  ]
 }
