@@ -222,7 +222,8 @@
     transform: rotateY(90deg) translateZ(170px);
 
     @media (max-width: 768px) {
-      transform: rotateY(90deg) translateZ(85px);
+      transform: rotateY(90deg) translateZ(85px) translateY(-250px);
+      align-items: flex-start
     }
   }
 
